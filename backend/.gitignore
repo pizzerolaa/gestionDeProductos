@@ -7,7 +7,7 @@ yarn-error.log
 .json
 
 /demo/src/main/resources/gestiondeproductos-15f93-firebase-adminsdk-fbsvc-3d91922c31.json
-/demo/target/
+/demo/target/classes
 # Environment variables
 .env
 .env.local
